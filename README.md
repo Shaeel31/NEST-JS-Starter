@@ -1,4 +1,4 @@
-# Dividis SMM API
+# NEST JS STARTER
 
 Dividis SMM API configured with:
 
@@ -11,28 +11,9 @@ Dividis SMM API configured with:
 - Image Compression [Jimp](https://www.npmjs.com/package/jimp)
 - UI with [Swagger OpenAPI](https://docs.nestjs.com/openapi/introduction) 
 
-## API URL
-### Swagger UI
-[Dividis SMM API Swagger](https://socialapi.solissol.com/swagger/)
-### Base URL
-[Dividis SMM API Base URL](https://socialapi.solissol.com/api/v1/en/)
-
 
 ## How to use
-
-Using [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the App:
-
-```bash
-git clone https://<username>@bitbucket.org/teamtalkers/apis_dividis_social_media_manager.git
-# and
-cd apis_dividis_social_media_manager
-# installing all dependancies
-npm install
-# For starting app
-npm run start:dev
-# For Building app
-npm run build
------------------------
-## Formating
-npm run format
+Clone the repo to your local system
+Run npm install
+Run command "npm run start:dev" to serve a local server running at port 3005.
 ```
