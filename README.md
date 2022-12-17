@@ -1,6 +1,4 @@
-# NEST JS STARTER
-
-Dividis SMM API configured with:
+# NEST JS STARTER Configured with :
 
 - Major Framework [NestJS](https://docs.nestjs.com/)
 - Strong Typing [Typescript](https://www.typescriptlang.org/)
